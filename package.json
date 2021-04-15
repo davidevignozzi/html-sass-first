@@ -1,0 +1,23 @@
+{
+  "name": "html-sass-first",
+  "version": "1.0.0",
+  "description": "html-sass-first",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidevignozzi/html-sass-first.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidevignozzi/html-sass-first/issues"
+  },
+  "homepage": "https://github.com/davidevignozzi/html-sass-first#readme",
+  "devDependencies": {
+    "laravel-mix": "^6.0.16"
+  }
+}
