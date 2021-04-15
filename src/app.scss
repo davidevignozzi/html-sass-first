@@ -1,3 +1,11 @@
-body{
-    background-color: aqua;
+$primaryColor: #0cd977;
+$secondaryColor: #062c5e;
+
+button{
+    border-radius: 20px;
+    border-color: $primaryColor;
+}
+
+h1{
+    color: $secondaryColor;
 }
